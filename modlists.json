@@ -1,5 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Retro Revels Rewind",
     "description": "Remember Lover's Lab before 2014 or so? Because I do.",
     "author": "vexation",
     "maintainers": [
       "github/fordinator"
+    ],
+    "game": "skyrim",
+    "tags": [
+      "NSFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/fordinator/rrr/blob/main/splash.webp?raw=true",
+      "readme": "https://github.com/fordinator/rrr/",
+      "download": "https://1drv.ms/u/c/7c1837ede084d474/IQCI2QSOTtlTRb4Lj6K9qqlAAfuT_TPnGnT1lsfnN9xq4-4?e=gTQ3K7",
+      "machineURL": "RRR",
+      "discordURL": "https://discord.gg/nothankyou"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ty936oJez90",
+      "Size": 92031654,
+      "NumberOfArchives": 410,
+      "SizeOfArchives": 27097427113,
+      "NumberOfInstalledFiles": 83777,
+      "SizeOfInstalledFiles": 61574885175,
+      "TotalSize": 88672312288
+    },
+    "version": "0.1.1.0"
+  }
+]
