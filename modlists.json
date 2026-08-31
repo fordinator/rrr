@@ -18,9 +18,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/fordinator/rrr/blob/main/splash.webp?raw=true",
+      "image": "https://raw.githubusercontent.com/fordinator/rrr/main/splash.webp",
       "readme": "https://github.com/fordinator/rrr/",
-      "download": "https://1drv.ms/u/c/7c1837ede084d474/IQCI2QSOTtlTRb4Lj6K9qqlAAfuT_TPnGnT1lsfnN9xq4-4?e=gTQ3K7",
+      "download": "https://drive.google.com/file/d/15amRrHCVGUOtn3ZuKFpQKGF4hHbY2Cmu/view?usp=sharing",
       "machineURL": "RRR",
       "discordURL": "https://discord.gg/nothankyou"
     },
