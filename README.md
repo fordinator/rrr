@@ -1,6 +1,6 @@
 ## Preamble
 
-(RRR.png)
+![RRR](RRR.png "RRR")
 
 **Retro Revels Rewind** (hereafter referred to as _RRR_) is a _Wabbajack_ modlist for _Skyrim Legendary Edition_.
 
