@@ -1,5 +1,7 @@
 ## Preamble
 
+(RRR.png)
+
 **Retro Revels Rewind** (hereafter referred to as _RRR_) is a _Wabbajack_ modlist for _Skyrim Legendary Edition_.
 
 The theme is very "rigid." It focuses heavily on mods that had been released **pre-2014**, particularly _Lover's Lab_ mods designed for submissive female player characters, with assorted patching and script improvements.
