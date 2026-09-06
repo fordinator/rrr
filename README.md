@@ -64,7 +64,7 @@ You're ready to go!
 
 ### The Alternate Start
 
-One of my persistent complaints about Alternate Start mods is that you always have to go to Helgen early anyway, or many quests will be unavailable. So this modlist places you at the exit of Helgen Cave with all important quest triggers cleared -- you are free to go wherever you wish from the very beginning. The primary difference is that you are buck naked, have no gear, and no starting spells beyond your Racial Abilities.
+One of my persistent complaints about Alternate Start mods is that you always have to go to Helgen early anyway, or many quests will be unavailable. So this modlist places you at the exit of Helgen Cave with all important quest triggers cleared -- you are free to go wherever you wish from the very beginning. The primary difference is that you are buck naked, have no gear, and no starting spells beyond your Racial Abilities. You do still get to select whom you escaped with (Hadvar or Ralof)
 
 For my personal amusement, I have included three `YES/NO` popup options.
 
@@ -74,7 +74,7 @@ For my personal amusement, I have included three `YES/NO` popup options.
 
 `Would you like a set of HILARIOUS bondage gear?` will equip you with a BDSM set of gear with an amusing appearance and powerful abilities.
 
-Answer 'no' to all options and you run to Riverwood with Ralof.
+Answer 'no' to all options and you run to Riverwood with Hadvar or Ralof.
 
 ### Support and Questions.
 
