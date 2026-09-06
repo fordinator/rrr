@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/fordinator/rrr/main/splash.webp",
+      "image": "https://raw.githubusercontent.com/fordinator/rrr/main/RRR.png",
       "readme": "https://github.com/fordinator/rrr/",
       "download": "https://drive.google.com/file/d/15amRrHCVGUOtn3ZuKFpQKGF4hHbY2Cmu/view?usp=sharing",
       "machineURL": "RRR",
