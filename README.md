@@ -79,3 +79,7 @@ Answer 'no' to all options and you run to Riverwood with Hadvar or Ralof.
 ### Support and Questions.
 
 Sorry, but no. It's a fool's game. Good luck with the modlist!
+
+But to tempt you, here is a short amusing video preview: https://www.youtube.com/watch?v=o4XjfZD6g40
+
+You **CAN** find out more about me at https://vexation.me
