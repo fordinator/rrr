@@ -38,7 +38,7 @@ Although *Wabbajack* provides **LIMITED** support for manual downloads from *Lov
 
 Download and launch the *Wabbajack* app.
 
-Login to *Nexus* via the *Wabbajack* app.
+Login to *Nexus* and *Lover's Lab* via the *Wabbajack* app.
 
 Find and begin the installation of *RRR* via the *Wabbajack* UI.
 
