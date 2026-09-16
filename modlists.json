@@ -18,8 +18,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/fordinator/rrr/refs/heads/main/RRR.webp",
-      "readme": "https://github.com/fordinator/rrr/",
+      "image": "https://raw.githubusercontent.com/fordinator/main/RRR.webp",
+      "readme": "https://github.com/fordinator/rrr/README.md",
       "website": "https://vexation.me",
       "download": "https://drive.google.com/file/d/15amRrHCVGUOtn3ZuKFpQKGF4hHbY2Cmu/view?usp=sharing",
       "machineURL": "RRR",
@@ -27,14 +27,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VL4oiEgSNgw=",
-      "Size": 83168989,
-      "NumberOfArchives": 411,
-      "SizeOfArchives": 26810560847,
-      "NumberOfInstalledFiles": 83375,
-      "SizeOfInstalledFiles": 61054324762,
-      "TotalSize": 87864885609
+      "Hash": "Dkr7JSWWZqI=",
+      "Size": 83242710,
+      "NumberOfArchives": 412,
+      "SizeOfArchives": 29399656088,
+      "NumberOfInstalledFiles": 85460,
+      "SizeOfInstalledFiles": 63434585543,
+      "TotalSize": 92834241631
     },
-    "version": "0.1.2.0"
+    "version": "0.1.3.0"
   }
 ]
