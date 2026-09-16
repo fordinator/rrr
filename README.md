@@ -54,8 +54,6 @@ Enable *SexLab* as normal, but **DO NOT** register any animations for the mod in
 
 Open the *ZAZ 8* MCM, navigate to the *SexLab* section, and *Register Animations*. Wait for the popup before closing the menu.
 
-Enable the *Apropos* mod. Only takes a few seconds.
-
 Now run the *MCM Recording* called *RRR*. This configures the modlist, and enables **only** the recommended set of NSFW animations. 
 
 Enable *SL Defeat* and Load the settings in the *MCM* menu.
