@@ -78,8 +78,30 @@ Answer 'no' to all options and you run to Riverwood with Hadvar or Ralof.
 
 ### Support and Questions.
 
-Sorry, but no. It's a fool's game. Good luck with the modlist!
+Submit a Github issue, especially if the list can't be installed.
 
-But to tempt you, here is a short amusing video preview: https://www.youtube.com/watch?v=o4XjfZD6g40
+If you can't figure out how, or don't want to provide an email, you're on your own.
 
-You **CAN** find out more about me at https://vexation.me
+### Why should I play this piece of crap?
+
+Here is a short amusing video preview: [https://www.youtube.com/watch?v=o4XjfZD6g40](https://www.youtube.com/watch?v=o4XjfZD6g40)
+
+You can find out more about me at [https://vexation.me](https://vexation.me)
+
+### Changelog
+
+**1.3.2**
+
+- Fixed a hard freeze in Whiterun due to running out of memory.
+- Updated MNC to v17_0A. Updated Billyy's. LE mods don't get updates much.
+- Made the ENB brighter overall by 20%.
+- Reduced the darkening effect of blindfolds by 20%.
+- Added *SexLab LightMeUp* for visible sex scenes in dark areas.
+- Fixes to Prison Overhaul parade event are as follows:
+- Added a popup explaining how the parade event works.
+- You're supposed to walk around slowly **FOREVER** getting whipped.
+- Grab a drink, it'll be awhile.
+- Added a failguard so if the whipping craps out, the event ends.
+- Further binary-patched fixes to come.
+
+
