@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/fordinator/rrr/main/RRR.webp",
+      "image": "https://raw.githubusercontent.com/fordinator/rrr/main/RRR_gallery.webp",
       "readme": "https://raw.githubusercontent.com/fordinator/rrr/main/README.md",
       "website": "https://vexation.me",
       "download": "https://github.com/fordinator/rrr/releases/download/rrr/RRR.wabbajack",
