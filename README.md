@@ -90,6 +90,13 @@ You can find out more about me at [https://vexation.me](https://vexation.me)
 
 ### Changelog
 
+**1.3.3**
+
+- Updated *BakaFactory ABC* to 3.40
+- Updated *Simple Slavery* to 3.3.30
+- Tested a full POP cycle. Seems to work.
+- Flakiness with *HDT-PE Physics* still needs work.
+
 **1.3.2**
 
 - Fixed a hard freeze in Whiterun due to running out of memory.
